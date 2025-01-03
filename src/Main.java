@@ -31,7 +31,6 @@ public class Main {
 
         // Создание сервисной станции
         ServiceStation station1 = new ServiceStation();
-
         // Проверка транспорта
         station1.check(car1);
         station1.check(car2);
